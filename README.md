@@ -35,7 +35,7 @@ This project is a Figma clone built with Next.js, Liveblocks, and Fabric.js. The
    Create a `.env.local` file and add the necessary API keys and configuration.
 
    ```bash
-   NEXT_PUBLİC_LIVEBLOCK_KEY=your_liveblocks_secret_key
+   NEXT_PUBLIC_LIVEBLOCK_KEY=your_liveblocks_secret_key
    ```
 
 4. Run the development server:
